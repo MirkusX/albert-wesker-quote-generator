@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/albert-wesker-quote-generator/static/css/main.b383bbf1.css",
+    "main.js": "/albert-wesker-quote-generator/static/js/main.872ba4e5.js",
+    "static/js/787.c42cd3b1.chunk.js": "/albert-wesker-quote-generator/static/js/787.c42cd3b1.chunk.js",
+    "index.html": "/albert-wesker-quote-generator/index.html",
+    "main.b383bbf1.css.map": "/albert-wesker-quote-generator/static/css/main.b383bbf1.css.map",
+    "main.872ba4e5.js.map": "/albert-wesker-quote-generator/static/js/main.872ba4e5.js.map",
+    "787.c42cd3b1.chunk.js.map": "/albert-wesker-quote-generator/static/js/787.c42cd3b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b383bbf1.css",
+    "static/js/main.872ba4e5.js"
+  ]
+}
