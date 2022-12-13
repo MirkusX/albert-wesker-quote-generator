@@ -1,15 +1,33 @@
 {
   "files": {
     "main.css": "/albert-wesker-quote-generator/static/css/main.b383bbf1.css",
-    "main.js": "/albert-wesker-quote-generator/static/js/main.872ba4e5.js",
+    "main.js": "/albert-wesker-quote-generator/static/js/main.06820cb5.js",
     "static/js/787.c42cd3b1.chunk.js": "/albert-wesker-quote-generator/static/js/787.c42cd3b1.chunk.js",
+    "static/media/albert11.png": "/albert-wesker-quote-generator/static/media/albert11.d3751641812777565688.png",
+    "static/media/albert3.jpg": "/albert-wesker-quote-generator/static/media/albert3.69063a43b009e365c008.jpg",
+    "static/media/albert4.jpg": "/albert-wesker-quote-generator/static/media/albert4.0a4e9b877f1068fa7f2b.jpg",
+    "static/media/albert10.jpg": "/albert-wesker-quote-generator/static/media/albert10.54c05dce27e5a453f53d.jpg",
+    "static/media/albert8.jpg": "/albert-wesker-quote-generator/static/media/albert8.bbc86ef9405bde9c1f09.jpg",
+    "static/media/albert9.jpg": "/albert-wesker-quote-generator/static/media/albert9.6087941fc0db8302ef57.jpg",
+    "static/media/albert6.jpg": "/albert-wesker-quote-generator/static/media/albert6.5ec65acb7f1b17b3a7b2.jpg",
+    "static/media/albert13.jpg": "/albert-wesker-quote-generator/static/media/albert13.087f8cad22c3a8bba6a4.jpg",
+    "static/media/albert14.jpg": "/albert-wesker-quote-generator/static/media/albert14.7ec7e205324e3ac20451.jpg",
+    "static/media/albert1.jpg": "/albert-wesker-quote-generator/static/media/albert1.06ac3fa387ee1773f038.jpg",
+    "static/media/albert2.jpg": "/albert-wesker-quote-generator/static/media/albert2.dd13364d0b59c29d19fb.jpg",
+    "static/media/albert18.jpg": "/albert-wesker-quote-generator/static/media/albert18.ff3a0c0c95f06521840c.jpg",
+    "static/media/albert17.jpg": "/albert-wesker-quote-generator/static/media/albert17.731bd4bf01397f5b9217.jpg",
+    "static/media/albert12.jpg": "/albert-wesker-quote-generator/static/media/albert12.94e4b86cb03b630de8c9.jpg",
+    "static/media/albert5.jpg": "/albert-wesker-quote-generator/static/media/albert5.2addc031c922e06121d1.jpg",
+    "static/media/albert15.jpg": "/albert-wesker-quote-generator/static/media/albert15.fe70d7fe922dd9376d40.jpg",
+    "static/media/albert_retarded.jpg": "/albert-wesker-quote-generator/static/media/albert_retarded.745f6ecec108440890db.jpg",
+    "static/media/albert7.jpg": "/albert-wesker-quote-generator/static/media/albert7.8fbbde7ddc83501b1a69.jpg",
     "index.html": "/albert-wesker-quote-generator/index.html",
     "main.b383bbf1.css.map": "/albert-wesker-quote-generator/static/css/main.b383bbf1.css.map",
-    "main.872ba4e5.js.map": "/albert-wesker-quote-generator/static/js/main.872ba4e5.js.map",
+    "main.06820cb5.js.map": "/albert-wesker-quote-generator/static/js/main.06820cb5.js.map",
     "787.c42cd3b1.chunk.js.map": "/albert-wesker-quote-generator/static/js/787.c42cd3b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b383bbf1.css",
-    "static/js/main.872ba4e5.js"
+    "static/js/main.06820cb5.js"
   ]
 }
